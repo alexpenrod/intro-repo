@@ -15,6 +15,7 @@ Bullet points? Sure!
 How about...  
 5. and  
 6. and  
-7. oh lord!  
+7. oh lord!    
 
-![This is my cat.]
+This is me! Hello!
+![This is me!](https://github.com/alexpenrod/photo/blob/cb845658eb78615d181bb2b6ffecd4cef5e42470/HBD%20PIC.jpg)
