@@ -10,10 +10,11 @@ Bullet points? Sure!
 * one point
 * two points
 * three points
-* four
+* four  
+  
 How about...  
 5. and  
-6. and
+6. and  
 7. oh lord!  
 
 ![This is my cat.]
